@@ -5,7 +5,7 @@
     </PropertyGroup>
 
     <PropertyGroup>
-        <Version>56.0.0</Version>
+        <VersionPrefix>56.0.0</VersionPrefix>
         <Description>Remora.Discord's implementation of Discord's API objects</Description>
         <PackageReleaseNotes>
             Fix property optionality.
